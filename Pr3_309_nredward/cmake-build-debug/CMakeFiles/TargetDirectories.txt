@@ -1,0 +1,3 @@
+C:/Users/iamda/CLionProjects/Pr3_309_nredward/cmake-build-debug/CMakeFiles/Pr3_309_nredward.dir
+C:/Users/iamda/CLionProjects/Pr3_309_nredward/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/iamda/CLionProjects/Pr3_309_nredward/cmake-build-debug/CMakeFiles/rebuild_cache.dir
