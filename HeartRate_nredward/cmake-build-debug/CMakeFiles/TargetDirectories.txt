@@ -1,0 +1,3 @@
+C:/Users/iamda/CLionProjects/HeartRate_nredward/cmake-build-debug/CMakeFiles/HeartRate_nredward.dir
+C:/Users/iamda/CLionProjects/HeartRate_nredward/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/iamda/CLionProjects/HeartRate_nredward/cmake-build-debug/CMakeFiles/rebuild_cache.dir
