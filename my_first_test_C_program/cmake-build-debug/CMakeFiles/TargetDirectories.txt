@@ -1,0 +1,3 @@
+C:/Users/iamda/CLionProjects/my_first_test_C_program/cmake-build-debug/CMakeFiles/my_first_test_C_program.dir
+C:/Users/iamda/CLionProjects/my_first_test_C_program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/iamda/CLionProjects/my_first_test_C_program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
