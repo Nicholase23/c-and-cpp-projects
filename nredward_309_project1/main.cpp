@@ -1,4 +1,9 @@
-// Project 1: Linked List with Move-to-Front and Transpose Repositioning Approaches
+/*
+ * Nicholas Edwards
+ * ECE 309 - Data Structures and Object-Oriented Programming for ECE
+ * Section: 405
+ * Project 1 - Linked List Repositioning Approaches (Move-To-Front and Transpose)
+ */
 
 #include <iostream>
 #include <string>
